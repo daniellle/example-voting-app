@@ -90,7 +90,7 @@ Architecture
 * A [Node.js](/result) or [ASP.NET Core SignalR](/result/dotnet) webapp which shows the results of the voting in real time
 
 
-Note
+Note update
 ----
 
 The voting application only accepts one vote per client. It does not register votes if a vote has already been submitted from a client.
