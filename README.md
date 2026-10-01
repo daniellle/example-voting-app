@@ -36,6 +36,8 @@ An alternative version of the app uses Windows containers based on Nano Server. 
 
 You can build from source using:
 
+# Testing
+
 ```
 docker-compose -f docker-compose-windows.yml build
 ```
